@@ -3,7 +3,7 @@ This repos is about performing different task and labs about HCCDA Tech Essentia
 
 Basic Knowledge of Huawei Eco system
 
-Depyment of Linux on HUawei
+Deployment of Linux on Huawei
 
 Networks & STORAGE SERVICE ON HUAWEI CLOUD
 
